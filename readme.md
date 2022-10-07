@@ -1,5 +1,5 @@
 # Demo
 
-##sub heading
+## sub heading
 
  short descriptioon!
